@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/Gena/dev/play-samples-play-scala-starter-example/conf/routes:15:1: overloaded method value apply with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (rh: play.api.mvc.RequestHeader)play.api.libs.streams.Accumulator[akka.util.ByteString,play.api.mvc.Result] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (request: play.api.mvc.Request[play.api.mvc.AnyContent])scala.concurrent.Future[play.api.mvc.Result][0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to (String)[0m
+[0m[[0m[31merror[0m] [0m[0mGET /helloWorld                     controllers.HelloWorld.index(name)[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
